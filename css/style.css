@@ -23,7 +23,7 @@ body {
 :is(.front, .back, img[alt="Persona"] ){
     width: 100%;
 } 
-img[alt="Profile"] {
+img[alt="Persona"] {
     aspect-ratio: 1/1;
 }
 .front, .back {
@@ -44,6 +44,4 @@ img[alt="Profile"] {
     transform: translateY(-180px);
     opacity: 0;
 }
-@import url('https://fonts.googleapis.com/css2?family=Italianno&family=')
 
-font-family: 'Italianno', cursive;
